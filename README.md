@@ -107,7 +107,7 @@ ret
 
 ## Output  
 
-<img width="1609" height="740" alt="image" src="https://github.com/user-attachments/assets/4d1c913d-058b-47e1-b963-4111534c188b" />
+<img width="559" height="583" alt="image" src="https://github.com/user-attachments/assets/e044e470-d40e-41c9-a466-765812008117" />
 
 <img width="116" height="349" alt="image" src="https://github.com/user-attachments/assets/c9c875e9-7e83-487c-bc45-bf941207c64e" />
 
@@ -137,7 +137,7 @@ ret
 
 ## Output
 
-<img width="1604" height="736" alt="image" src="https://github.com/user-attachments/assets/69c0d8a1-56f6-49a6-bd36-2e09d91f930a" />
+<img width="552" height="578" alt="image" src="https://github.com/user-attachments/assets/c90fa1a6-fe90-40e4-9f6d-4d8d12572203" />
 
 <img width="114" height="352" alt="image" src="https://github.com/user-attachments/assets/fac50d14-b989-4680-a32e-04809b72d84e" />
 
