@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
-Name :
-Roll no 
-Date of experiment :
+# Name : ABINAV AADITYA
+# Roll no 212224040008
+# Date of experiment : 19-08-2025
 
 
 
